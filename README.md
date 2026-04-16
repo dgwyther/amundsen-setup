@@ -1,1 +1,1 @@
-# amundsen-setup
+# wilkes-setup
