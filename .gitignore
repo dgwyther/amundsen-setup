@@ -4,6 +4,7 @@
 # python junk
 *.pyc
 .ipynb_checkpoints
+*.Identifier*
 
 #python stuff
 *.pyc
