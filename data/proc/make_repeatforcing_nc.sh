@@ -1,8 +1,9 @@
 #!/bin/bash
 
 module load nco
+module load netcdf
 
-infile="amundsen_v2.5km_1992_v1.1_cycle365_bry.nc"
+infile="amundsen_v2.5km_1992_v1.2_cycle365_bry.nc"
 tmpdir="./tmp_cycles"
 mkdir -p $tmpdir
 
